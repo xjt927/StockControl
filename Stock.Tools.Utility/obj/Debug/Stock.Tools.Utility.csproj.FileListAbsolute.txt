@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\bin\Debug\Stock.Tools.Utility.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\bin\Debug\Stock.Tools.Utility.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\obj\Debug\Stock.Tools.Utility.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\obj\Debug\Stock.Tools.Utility.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Tools.Utility\obj\Debug\Stock.Tools.Utility.csprojResolveAssemblyReference.cache

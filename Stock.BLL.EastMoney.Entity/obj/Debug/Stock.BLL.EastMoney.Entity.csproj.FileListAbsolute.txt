@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.EastMoney.Entity\bin\Debug\Stock.BLL.EastMoney.Entity.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.EastMoney.Entity\bin\Debug\Stock.BLL.EastMoney.Entity.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.EastMoney.Entity\obj\Debug\Stock.BLL.EastMoney.Entity.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.EastMoney.Entity\obj\Debug\Stock.BLL.EastMoney.Entity.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.EastMoney.Entity\obj\Debug\Stock.BLL.EastMoney.Entity.csprojResolveAssemblyReference.cache

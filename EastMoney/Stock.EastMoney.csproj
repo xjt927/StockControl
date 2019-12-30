@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C9D4770-E2F3-4076-82BE-28D45445D301}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stock.EastMoney</RootNamespace>
+    <AssemblyName>Stock.EastMoney</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\packages\HtmlAgilityPack.1.4.9.5\lib\Net40\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EastMoneyMain.cs" />
+    <Compile Include="FindMaster.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StopPoint.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Stock.BLL.EastMoney.Entity\Stock.BLL.EastMoney.Entity.csproj">
+      <Project>{E1FE33B9-8403-401C-96BB-AC88FEE08800}</Project>
+      <Name>Stock.BLL.EastMoney.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stock.BLL.EastMoney\Stock.BLL.EastMoney.csproj">
+      <Project>{9e0238b0-1e27-493a-8acc-feff8bb3bb63}</Project>
+      <Name>Stock.BLL.EastMoney</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stock.Core.Log\Stock.Core.Log.csproj">
+      <Project>{06c18795-a466-4e0a-8bdf-28f301367b65}</Project>
+      <Name>Stock.Core.Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stock.Core\Stock.Core.Base.csproj">
+      <Project>{01fb6a64-be9a-49a4-a487-49963bd10299}</Project>
+      <Name>Stock.Core.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stock.Tools.Utility\Stock.Tools.Utility.csproj">
+      <Project>{8a241518-0505-4af5-9b13-da2d1494da69}</Project>
+      <Name>Stock.Tools.Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

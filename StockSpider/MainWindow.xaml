@@ -1,0 +1,35 @@
+﻿<Window x:Class="StockSpider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight ="40"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid  >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Row="0" Grid.Column="0"  Width="60" Margin="8,0,0,0"  HorizontalAlignment ="Left"  Content="东方财富" Click="ClickEastMoney" />
+            <Button Grid.Row="0" Grid.Column="0"  Width="60" Margin="0,0,8,0"  HorizontalAlignment ="Right"  Content="开始预订" Click="ClickStart" Visibility="Hidden"/>
+        </Grid>
+
+        <Grid Row="1">
+            <TabControl Name="tabControl1" Margin="5">
+                <TabItem Header="日志"   FontSize="12">
+                    <TextBox Name="LogBox" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"></TextBox>
+                </TabItem>
+                <TabItem Header="浏览器"   FontSize="12">
+                    <WebBrowser Name="MyBrowser"></WebBrowser>
+                </TabItem>
+
+            </TabControl>
+
+            <!---->
+        </Grid>
+    </Grid>
+</Window>

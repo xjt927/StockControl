@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.Entity\bin\Debug\Stock.BLL.Stock.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.Entity\bin\Debug\Stock.BLL.Stock.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.Entity\obj\Debug\Stock.BLL.Stock.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.BLL.Entity\obj\Debug\Stock.BLL.Stock.pdb

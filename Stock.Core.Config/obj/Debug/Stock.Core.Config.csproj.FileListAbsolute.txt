@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\bin\Debug\Stock.Core.Config.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\bin\Debug\Stock.Core.Config.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\bin\Debug\Stock.Tools.Utility.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\bin\Debug\Stock.Tools.Utility.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\obj\Debug\Stock.Core.Config.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\obj\Debug\Stock.Core.Config.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Core.Config\obj\Debug\Stock.Core.Config.pdb

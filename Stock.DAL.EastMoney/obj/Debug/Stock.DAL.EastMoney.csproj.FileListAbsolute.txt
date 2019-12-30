@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.DAL.EastMoney.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.DAL.EastMoney.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\obj\Debug\Stock.DAL.EastMoney.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\obj\Debug\Stock.DAL.EastMoney.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\obj\Debug\Stock.DAL.EastMoney.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.DAL.DapperEx.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Dapper.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.DAL.DapperEx.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Dapper.xml
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.BLL.EastMoney.Entity.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.BLL.EastMoney.Entity.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.Core.Log.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Stock.Core.Log.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.EastMoney\bin\Debug\Newtonsoft.Json.xml

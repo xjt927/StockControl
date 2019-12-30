@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\C\StockControl\Stock.Com\bin\Debug\Stock.Http.Core.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\C\StockControl\Stock.Com\bin\Debug\Stock.Http.Core.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\C\StockControl\Stock.Com\obj\Debug\Stock.Http.Core.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\C\StockControl\Stock.Com\obj\Debug\Stock.Http.Core.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Com\bin\Debug\Stock.Http.Core.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Com\bin\Debug\Stock.Http.Core.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Com\obj\Debug\Stock.Http.Core.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Com\obj\Debug\Stock.Http.Core.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.Com\obj\Debug\Stock.Http.Core.csprojResolveAssemblyReference.cache

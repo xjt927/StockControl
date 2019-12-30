@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\Stock.DAL.DapperEx.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\Stock.DAL.DapperEx.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\Dapper.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\Dapper.xml
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\obj\Debug\Stock.DAL.DapperEx.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\obj\Debug\Stock.DAL.DapperEx.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\Stock.DAL.DapperEx.dll.config
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\bin\Debug\MySql.Data.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\Spider\StockControl\Stock.DAL.DapperEx\obj\Debug\Stock.DAL.DapperEx.csprojResolveAssemblyReference.cache
